@@ -1,0 +1,6 @@
+{
+  "name": "VocalFlow",
+  "description": "Dark-themed neon monospace speech-generation and freestyle rhythm engine with Web Audio drum loops, 4-bar prompt constraints, forbidden taboo modes, distraction interference, and audio review.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
