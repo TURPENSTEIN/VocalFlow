@@ -1,6 +1,0 @@
-{
-  "name": "VocalFlow",
-  "description": "A neon-dark monospace speech-generation and freestyle rhythm training app with dynamic drum loops, real-time rhyme constraints, distraction interference control, and audio recording review.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
